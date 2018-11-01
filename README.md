@@ -1,0 +1,2 @@
+# split-calculator
+TO avoid round issue, use the split calculator. Like you have to distribute 100 to 3, and you are saving the value in 2 decimal, so you are storing 33.33, 33.33, 33.33. Now if you sum these 3 up what you will get 99.99, so you have lost 1 cent. Here split calculator will come into play, what it will do it will split 100 in this way 33.33, 33.33, 33.34. So you will not lose any cents.
